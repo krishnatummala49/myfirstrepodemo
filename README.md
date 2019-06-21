@@ -1,2 +1,2 @@
 # myfirstrepodemo
-My First Repo Demo
+My First Git Repository
